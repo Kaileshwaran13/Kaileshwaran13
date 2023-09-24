@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 <em>I am passionate about solving real-world problems using mathematical concepts. I am skilled in Algorithms and Data Structures. I am a quick learner and a team worker that gets the job done. I am here to take up a challenging career and grows with honesty, loyalty, good relationship, best performance and translate my experience, knowledge, skills, and abilities into value for the people and the organization.</em>
 
+![Kailesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaileshwaran13&show_icons=true&theme=gruvbox)
+
