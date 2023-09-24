@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-<em>I am passionate about solving real-world problems using mathematical concepts. I am skilled in Algorithms and Data Structures. I am a quick learner and a team worker that gets the job done. I am here to take up a challenging career and grows with honesty, loyalty, good relationship, best performance and translate my experience, knowledge, skills, and abilities into value for the people and the organization.</em>
+<em>I am a passionate problem solver with a strong foundation in mathematical concepts, algorithms, and data structures. My enthusiasm for tackling real-world challenges drives me to be a quick learner and a dedicated team player. I am eager to take on challenging career opportunities and contribute my knowledge and skills to create value for both the organization and its stakeholders. My commitment to honesty, loyalty, and building positive relationships, combined with my strong work ethic, positions me to excel in any role I take on</em>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaileshwaran13&theme=dark&background=000000)](https://git.io/streak-stats)
 
