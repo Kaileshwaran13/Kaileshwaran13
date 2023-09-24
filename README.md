@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3><em>I am passionate about solving real-world problems using mathematical concepts. I am skilled in Algorithms and Data Structures. I am a quick learner and a team worker that gets the job done. I am here to take up a challenging career and grows with honesty, loyalty, good relationship, best performance and translate my experience, knowledge, skills, and abilities into value for the people and the organization.</em></h3>
+<h3 style = "color:white;"><em>I am passionate about solving real-world problems using mathematical concepts. I am skilled in Algorithms and Data Structures. I am a quick learner and a team worker that gets the job done. I am here to take up a challenging career and grows with honesty, loyalty, good relationship, best performance and translate my experience, knowledge, skills, and abilities into value for the people and the organization.</em></h3>
