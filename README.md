@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 <em>I am passionate about solving real-world problems using mathematical concepts. I am skilled in Algorithms and Data Structures. I am a quick learner and a team worker that gets the job done. I am here to take up a challenging career and grows with honesty, loyalty, good relationship, best performance and translate my experience, knowledge, skills, and abilities into value for the people and the organization.</em>
 
-<center>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaileshwaran13&theme=dark&background=000000)](https://git.io/streak-stats)</center>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kaileshwaran13&theme=dark&background=000000)](https://git.io/streak-stats)
 
