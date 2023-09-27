@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kaileshwaran13&theme=dark&background=000000)](https://git.io/streak-stats)
+![GitHub Streak](https://img.shields.io/github/contributions/Kaileshwaran13?style=flat-square&logo=github&color=brightgreen)
 
 
 
