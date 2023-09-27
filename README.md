@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 
 
-![GitHub Streak](https://img.shields.io/github/contributions/Kaileshwaran13?style=flat-square&logo=github&color=brightgreen)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kaileshwaran13)](https://git.io/streak-stats)
 
 
 
