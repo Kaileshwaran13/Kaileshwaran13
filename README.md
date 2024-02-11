@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api?username=Kaileshwaran13&show_icons=true&theme=dracula" />
 
 
-<img align = "left" width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" /><br>
+<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" />
 
+
+<br><br>
 
 ### 🧰 Languages and Tools
 
