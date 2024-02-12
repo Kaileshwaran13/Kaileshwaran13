@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 
 <div style="display: inline-block; width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaileshwaran13&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 100%; height: auto; float: left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaileshwaran13&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 50%; height: auto; float: left">
 </div>
 
 <div style="display: inline-block; width: 48%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" alt="Top Languages" style="width: 100%; height: auto; float : left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" alt="Top Languages" style="width: 50%; height: auto; float : left">
 </div>
 
 
