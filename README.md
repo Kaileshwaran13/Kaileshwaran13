@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <em>I am a passionate problem solver with a strong foundation in mathematical concepts, algorithms, and data structures. My enthusiasm for tackling real-world challenges drives me to be a quick learner and a dedicated team player. I am eager to take on challenging career opportunities and contribute my knowledge and skills to create value for both the organization and its stakeholders. My commitment to honesty, loyalty, and building positive relationships, combined with my strong work ethic, positions me to excel in any role I take on</em>
 
 
-<div style="width: 200px; height: 200px; background-color: #3498db; border-radius: 10px; display: flex; justify-content: center; align-items: center; color: 0000;">
+<div style="width: 200px; height: 200px; background-color: #3498db; border-radius: 10px; border: 2px solid #ffffff; /* White border */ display: flex; justify-content: center; align-items: center; color: #fff;">
   This is a box!
 </div>
 
