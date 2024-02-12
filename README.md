@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 </div>
 
 <div style="width: 50%;">
+  <img src= "https://github-readme-stats.vercel.app/api?username=Kaileshwaran13&show_icons=true&theme=dracula" alt="Image Alt Text" style="width: 100%; height: auto;">
+</div>
+
+<div style="width: 50%;">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" alt="Image Alt Text" style="width: 100%; height: auto;">
 </div>
 
