@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-<img align = "left" width="200" height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" />
+<img align = "left" width="200" height="180" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" />
 
   
 <img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" />
