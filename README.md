@@ -26,16 +26,13 @@ Here are some ideas to get you started:
 
 
 
-<div style="display: flex;">
-  <div style="flex: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kaileshwaran13&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 100%; height: auto;">
-  </div>
-
-  <div style="flex: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" alt="Top Languages" style="width: 100%; height: auto;">
-  </div>
+<div style="display: inline-block; width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaileshwaran13&show_icons=true&theme=dracula" alt="GitHub Stats" style="width: 100%; height: auto;">
 </div>
 
+<div style="display: inline-block; width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact" alt="Top Languages" style="width: 100%; height: auto;">
+</div>
 
 
 
