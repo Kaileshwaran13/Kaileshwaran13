@@ -2,6 +2,7 @@
 
 <em>Welcome to my GitHub space! I'm a passionate problem solver with a knack for turning mathematical concepts, algorithms, and data structures into real-world solutions. As a perpetual learner and a devoted team player, I thrive on the thrill of overcoming challenges.</em>
 
+
 ## 🚀 About Me
 
 - 🎓 Currently diving deep into the world of algorithms and data structures.
@@ -30,9 +31,6 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
@@ -49,7 +47,6 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-
 
 ###
 
