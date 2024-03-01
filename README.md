@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<em>Welcome to my GitHub space! I'm a passionate problem solver with a knack for turning mathematical concepts, algorithms, and data structures into real-world solutions. As a perpetual learner and a devoted team player, I thrive on the thrill of overcoming challenges.</em>
+<em>I'm a passionate problem solver with a knack for turning mathematical concepts, algorithms, and data structures into real-world solutions. As a perpetual learner and a devoted team player, I thrive on the thrill of overcoming challenges.</em>
 
 
 ## 🚀 About Me
