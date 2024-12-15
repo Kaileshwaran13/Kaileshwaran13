@@ -58,14 +58,11 @@ Here are some ideas to get you started:
   </fieldset>
 </div>
 
+## Box-like Appearance
 
-<fieldset style="border: 2px solid #ccc; padding: 15px; border-radius: 8px;">
-  <legend style="font-weight: bold;">Outer Box</legend>
-  Here is some content in the outer box.
-  
-  <fieldset style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
-    <legend style="font-weight: bold;">Inner Box</legend>
-    It's a demo!  
-    This is content inside the inner box.
-  </fieldset>
-</fieldset>
+> **Outer Box**  
+> Here is some content in the outer box.  
+> 
+> > **Inner Box**  
+> > It's a demo!  
+> > This is content inside the inner box.
