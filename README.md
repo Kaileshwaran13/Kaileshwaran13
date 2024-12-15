@@ -59,8 +59,13 @@ Here are some ideas to get you started:
 </div>
 
 
-
-| Outer Table Header 1 | Outer Table Header 2 |
-|-----------------------|-----------------------|
-| **Row 1, Column 1**  | **Row 1, Column 2**   |
-| **Row 2, Column 1**  | 
+<fieldset style="border: 2px solid #ccc; padding: 15px; border-radius: 8px;">
+  <legend style="font-weight: bold;">Outer Box</legend>
+  Here is some content in the outer box.
+  
+  <fieldset style="border: 1px solid #ccc; padding: 10px; margin-top: 10px;">
+    <legend style="font-weight: bold;">Inner Box</legend>
+    It's a demo!  
+    This is content inside the inner box.
+  </fieldset>
+</fieldset>
