@@ -34,59 +34,23 @@ Here are some ideas to get you started:
 
 ## Skills and Tools
 
-<div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 10px;">
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Django" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Flask" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="PyTest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  </div>
-  <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
-    <img alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" />
-  </div>
-</div>
+    <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+    <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" />
+
+
