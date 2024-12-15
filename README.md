@@ -59,15 +59,3 @@ Here are some ideas to get you started:
 </div>
 
 
-
-## Box-like Example Using HTML
-
-<div style="border: 2px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;">
-  <strong>Outer Box</strong>
-  <p>Here is some content in the outer box.</p>
-  
-  <div style="border: 1px solid #bbb; padding: 10px; margin-top: 10px; background-color: #f1f1f1;">
-    <strong>Inner Box</strong>
-    <p>It's a demo! This is content inside the inner box.</p>
-  </div>
-</div>
