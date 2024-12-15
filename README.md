@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## Skills and Tools
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; justify-content: flex-start; flex-wrap: wrap; gap: 10px;">
   <div style="border: 2px solid #ccc; border-radius: 8px; padding: 10px; background-color: #f9f9f9;">
     <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   </div>
