@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 
 ### 🧰 Languages and Tools
 
-
 | <div> | 
+|-------------------------------|
 |   <fieldset style="background-color: white; border: 2px solid #ccc; border-radius: 8px; padding: 20px;"> | 
 |     <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" /> | 
 |     <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> | 
