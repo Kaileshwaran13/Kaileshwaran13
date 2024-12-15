@@ -57,5 +57,4 @@ Here are some ideas to get you started:
     <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" />
   </fieldset>
 </div>
-###
 
