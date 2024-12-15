@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 
 ### 🧰 Languages and Tools
+
 |-------------|
 | <div>
   <fieldset style="background-color: white; border: 2px solid #ccc; border-radius: 8px; padding: 20px;">
@@ -55,6 +56,5 @@ Here are some ideas to get you started:
     <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
     <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" />
   </fieldset>
-</div>
-| 
+</div> |
 |-------------|
