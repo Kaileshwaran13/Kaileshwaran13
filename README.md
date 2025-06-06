@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;🗄️ **Database**  
 <p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="24"/> SQLite &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> PostgreSQL 
 </p>
 
