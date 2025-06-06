@@ -44,30 +44,30 @@ Here are some ideas to get you started:
 </p>
 
 &nbsp;&nbsp;⚙️ **Backend**  
-&nbsp;&nbsp;<p> 
+<p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24"/> Django &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24"/> Flask 
 </p>
 
 &nbsp;&nbsp;🗄️ **Database**  
-&nbsp;&nbsp;<p> 
+<p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> PostgreSQL 
 </p>
 
 &nbsp;&nbsp;🧪 **Testing**  
-&nbsp;&nbsp;<p> 
+<p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="24"/> Pytest 
 </p>
 
 &nbsp;&nbsp;☁️ **Hosting / DevOps**  
-&nbsp;&nbsp;<p> 
+<p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="24"/> Cloudflare 
 </p>
 
 &nbsp;&nbsp;🧰 **Others**  
-&nbsp;&nbsp;<p> 
+<p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="24"/> C &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++ &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="24"/> Python &nbsp; 
