@@ -60,6 +60,11 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="24"/> Pytest 
 </p>
 
+&nbsp;&nbsp;🧪 **CI / CD**  
+<p> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="24"/> GitHub Actions 
+</p>
+
 &nbsp;&nbsp;☁️ **Hosting / DevOps**  
 <p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; 
