@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;⚙️ **Backend**  
 <p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24"/> Django &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24"/> Flask 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24"/> Flask  &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="24"/> FastAPI 
 </p>
 
