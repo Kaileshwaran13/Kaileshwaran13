@@ -31,16 +31,18 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact&theme=dracula" alt="Top Languages" style="width: 40%; height: auto; float : left">
 </div>
 
-🛠️ Skills & Tools
-<h1> 🎨 Frontend 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30px" title="HTML" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30px" title="CSS" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30px" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30px" title="Bootstrap" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30px" title="React" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30px" title="Flutter" /> </h1>
-<h1> ⚙️ Backend 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30px" title="Django" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30px" title="Flask" /> </h1>
-<h1 >🗄️ Database 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30px" title="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30px" title="PostgreSQL" /> </h1>
-<h1> 🧪 Testing 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="30px" title="Pytest" /> </h1>
-<h1> ☁️ Hosting / DevOps 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="30px" title="Firebase" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="30px" title="Cloudflare" /> </h1>
-<h1> 🧰 Other Tools 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="30px" title="C" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30px" title="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="30px" title="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30px" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" title="GitHub" /> </h1>
+
+🛠️ My Tech Stack
+<style> .stack-section { display: flex; flex-wrap: wrap; gap: 15px; margin: 10px 0; } .stack-badge { display: flex; align-items: center; gap: 8px; padding: 6px 10px; border-radius: 8px; background: #1e1e2f; color: #fff; font-size: 14px; font-weight: 500; } .stack-badge img { width: 20px; height: 20px; } </style>
+🎨 Frontend
+<div class="stack-section"> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />HTML</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />CSS</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />JavaScript</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />Bootstrap</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />React</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />Flutter</div> </div>
+⚙️ Backend
+<div class="stack-section"> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />Django</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />Flask</div> </div>
+🗄️ Database
+<div class="stack-section"> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />MySQL</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />PostgreSQL</div> </div>
+🧪 Testing
+<div class="stack-section"> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />Pytest</div> </div>
+☁️ DevOps & Hosting
+<div class="stack-section"> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" />Firebase</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />Cloudflare</div> </div>
+🧰 Others
+<div class="stack-section"> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />C</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />C++</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />Python</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />Git</div> <div class="stack-badge"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />GitHub</div> </div>
