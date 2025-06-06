@@ -31,28 +31,46 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaileshwaran13&layout=compact&theme=dracula" alt="Top Languages" style="width: 40%; height: auto; float : left">
 </div>
 
-🛠️ My Tech Stack
+## 🛠️ My Tech Stack
 
+&nbsp;&nbsp;🎨 **Frontend**  
+&nbsp;&nbsp;<p> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24"/> HTML &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24"/> CSS &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24"/> JavaScript &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24"/> Bootstrap &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24"/> Flutter 
+</p>
 
-🎨 Frontend
-&nbsp;&nbsp;<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24"/> HTML &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24"/> CSS &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24"/> JavaScript &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="24"/> Bootstrap &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24"/> React &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="24"/> Flutter </p>
+&nbsp;&nbsp;⚙️ **Backend**  
+&nbsp;&nbsp;<p> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24"/> Django &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24"/> Flask 
+</p>
 
+&nbsp;&nbsp;🗄️ **Database**  
+&nbsp;&nbsp;<p> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> PostgreSQL 
+</p>
 
-⚙️ Backend
-&nbsp;&nbsp;<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24"/> Django &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24"/> Flask </p>
+&nbsp;&nbsp;🧪 **Testing**  
+&nbsp;&nbsp;<p> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="24"/> Pytest 
+</p>
 
+&nbsp;&nbsp;☁️ **Hosting / DevOps**  
+&nbsp;&nbsp;<p> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="24"/> Cloudflare 
+</p>
 
-🗄️ Database
-&nbsp;&nbsp;<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24"/> MySQL &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24"/> PostgreSQL </p>
-
-
-🧪 Testing
-&nbsp;&nbsp;<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="24"/> Pytest </p>
-
-
-☁️ Hosting / DevOps
-&nbsp;&nbsp;<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="24"/> Cloudflare </p>
-
-
-🧰 Others
-&nbsp;&nbsp;<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="24"/> C &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++ &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="24"/> Python &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub </p>
+&nbsp;&nbsp;🧰 **Others**  
+&nbsp;&nbsp;<p> 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width="24"/> C &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24"/> C++ &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="24"/> Python &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub 
+</p>
