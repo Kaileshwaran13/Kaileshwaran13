@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" width="24"/> Pytest 
 </p>
 
-&nbsp;&nbsp;🧪 **Version Control**  
+&nbsp;&nbsp;🗃️ **Version Control**  
 <p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24"/> Git &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="24"/> GitHub 
 </p>
 
-&nbsp;&nbsp;🧪 **CI / CD**  
+&nbsp;&nbsp;🔁 **CI / CD**  
 <p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="24"/> GitHub Actions 
 </p>
