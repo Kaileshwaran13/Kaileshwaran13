@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## 🛠️ My Tech Stack
 
 &nbsp;&nbsp;🎨 **Frontend**  
-&nbsp;&nbsp;<p> 
+<p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="24"/> HTML &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="24"/> CSS &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="24"/> JavaScript &nbsp; 
