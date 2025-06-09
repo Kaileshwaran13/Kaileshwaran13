@@ -76,7 +76,8 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;☁️ **Hosting / DevOps**  
 <p> 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Docker &nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="24"/> Cloudflare 
 </p>
 
