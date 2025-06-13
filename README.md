@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="24"/> GitHub Actions 
 </p>
 
-&nbsp;&nbsp;☁️ **Hosting / DevOps**  
+&nbsp;&nbsp;☁️ **Developer Tools**  
 <p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Docker &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; 
