@@ -71,11 +71,10 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="24"/> GitHub Actions 
 </p>
 
-&nbsp;&nbsp;☁️ **DevOps / Cloud / Infrastructure Tools**  
+&nbsp;&nbsp;☁️ **DevOps / Backend-as-a-Service (BaaS)**  
 <p> 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Docker &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="24"/> Cloudflare 
 </p>
 
 &nbsp;&nbsp;🧰 **Others**  
