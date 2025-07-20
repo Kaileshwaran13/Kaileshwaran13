@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 <p> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="24"/> Docker </p>
 
 &nbsp;&nbsp;🔥 **Backend-as-a-Service (BaaS)**  
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original-wordmark.svg" width="24"/> Firebase </p>
 
 &nbsp;&nbsp;🧰 **Others**  
 <p> 
